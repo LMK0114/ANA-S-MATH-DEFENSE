@@ -1,0 +1,57 @@
+# =========================
+# GDevelop Project
+# =========================
+
+# Exported games / builds
+/build/
+/dist/
+/export/
+/exports/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Logs
+*.log
+
+# Node modules (if using extensions/tools)
+node_modules/
+
+# Package lock optional
+# Uncomment if you don't want to track it
+# package-lock.json
+
+# Environment variables
+.env
+
+# =========================
+# OS Files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# =========================
+# IDE / Editor Files
+# =========================
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Visual Studio
+.vs/
+
+# =========================
+# GDevelop Auto Saves
+# =========================
+
+autosave.json
